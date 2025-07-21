@@ -7,7 +7,9 @@ The Medical Document Processing Assistant is an AI-powered tool designed to extr
 ![architecture](./images/architecture.png)
 
 1/ Extract text from PDF medical documents
+
 2/ Infer key medical information (diagnosis, medications, treatments)
+
 3/ Enrich the data with standardized medical codes (ICD-10, RxNorm, SNOMED CT)
 
 ## Key Features
