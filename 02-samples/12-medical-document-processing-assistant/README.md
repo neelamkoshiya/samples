@@ -53,7 +53,13 @@ The Medical Document Processing Assistant is an AI-powered tool designed to extr
    ```bash
    uv run main.py
    ```
-5. Select Option 1 - which will run the following input through the medical agent
+5. Select one of the three options as follows: 
+
+
+* Option 1:   You can enter your medical text input for the medical agent. 
+
+For example:
+
 ```
 Carlie had a seizure 2 weeks ago. She is complaining of frequent headaches
 Nausea is also present. She also complains of eye trouble with blurry vision
@@ -66,6 +72,9 @@ And produce enriched structured data with:
 - Medications (with RxNorm codes)
 - Treatments (with SNOMED CT codes)
 
+* Option 2 is to pass the path to the document like patient summary report. 
+
+* Option 3 is to run with some sample text data.
 
 ## Use Cases
 
